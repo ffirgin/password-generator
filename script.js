@@ -46,7 +46,7 @@ function generatePassword(){
 
 
     //Checks for no options given during confirmations above
-    if (passHasNumbers === false || passHasUpper === false || passHasLower === false || passHasSymbols === false){
+    if (passHasNumbers === false && passHasUpper === false && passHasLower === false && passHasSymbols === false){
       alert("You must choose at least one option!")
       return;
     }
