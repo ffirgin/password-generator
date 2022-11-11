@@ -9,7 +9,7 @@ They are given a choice of how long the password will be (between 8 and 128 char
 ## Installation
 
 1. On the repository, click Code, and copy the HTTPS link.
-   ![GitHub Clone button](./assets/cloning-repo.png)
+   ![GitHub Clone button](/assets/cloning-repo.png)
 2. Open your Git Bash terminal.
 3. Navigate to where you store your repositories locally on your system
    ie. ~/Documents/GitHub/, etc
